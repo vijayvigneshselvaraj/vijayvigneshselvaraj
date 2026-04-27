@@ -11,8 +11,7 @@ Senior Backend Engineer with 11+ years of experience building scalable, reliable
 - LangChain / RAG
 
 ## 📌 Projects
-- 🔍 RAG system for document search
-- 🤖 Chatbot with FastAPI + Ollama
+- 🤖 AI Research Assistant
 
 ## 📫 Contact
 - LinkedIn: <your-link>
