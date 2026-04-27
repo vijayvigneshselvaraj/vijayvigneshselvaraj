@@ -1,9 +1,7 @@
 # Hi there 👋 I'm Vijay
 
 ## 🚀 About Me
-- Backend Engineer (Java, Python)
-- Interested in AI / RAG systems
-- Learning Kubernetes & scalable systems
+Senior Backend Engineer with 11+ years of experience building scalable, reliable, and high-performance microservices using Java, Spring Boot, Spring Cloud, and Kafka. Skilled in REST APIs, distributed systems, event-driven architectures, and cloud/DevOps environments (AWS, Docker, Jenkins, CI/CD). Passionate about delivering production-ready, resilient systems and collaborating with cross-functional teams.
 
 ## 🧠 Tech Stack
 - Java, Spring Boot
