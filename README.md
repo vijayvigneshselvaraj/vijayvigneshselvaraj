@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vijay
+# Hi there 👋 I'm Vijayvignesh G S
 
 ## 🚀 About Me
 Senior Backend Engineer with 11+ years of experience building scalable, reliable, and high-performance microservices using Java, Spring Boot, Spring Cloud, and Kafka. Skilled in REST APIs, distributed systems, event-driven architectures, and cloud/DevOps environments (AWS, Docker, Jenkins, CI/CD). Passionate about delivering production-ready, resilient systems and collaborating with cross-functional teams.
